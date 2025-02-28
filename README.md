@@ -17,7 +17,7 @@ Diabetes Pedigree Function – Likelihood of diabetes based on family history
 Age – Age of the individual
 Outcome – Binary variable (1 = Diabetic, 0 = Non-Diabetic)
 
-###Project Workflow
+### Project Workflow
 
 The project follows these steps:
 
